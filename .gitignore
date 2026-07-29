@@ -1,0 +1,4 @@
+node_modules/
+.evn
+*.log
+server/prisma/dev.db
